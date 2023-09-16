@@ -8,6 +8,7 @@ def avg():
     avg=(num1+num2+num3)/3
     """printing value of above operation"""
     print("The average of your number is",avg)
-"""Returning Function"""
+    
+"""Calling Function"""
 avg()
 
